@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1QNbsFB6sQ8umdteZ9s4GY5euQX" />
+  <component name="RunManager">
+    <configuration name="UserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserMain" />
+      <module name="BillingSystem-V2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserMain" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
